@@ -4,4 +4,4 @@ Javascript framework : Knockout</br>
 Layout is handled via Bootstrap</br>
 
 # For Live Demo
-[Click here].(https://fredbrume.github.io/Neigbourhood/.) !! Demo preview does not load Wikipedia API, please download the repo until patched. !!
+[Click here.](https://fredbrume.github.io/Neigbourhood/.) !! Demo preview does not load Wikipedia API, please download the repo until patched. !!
